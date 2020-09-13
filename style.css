@@ -32,7 +32,7 @@ nav li {
     background-color: #7D0909;
     color: #BE3521;
     width: 200px;
-    height: 500px;
+    height: 300px;
     overflow: hidden;
 
 }
@@ -55,11 +55,12 @@ background-color: #BDBDBD;
 
 .right-side {
     width: 200px;
-    height: 500px;
+    height: 300px;
     float: right;
     background-color: #E3DDDD;
     padding-left: 20px;
     padding-right: 20px;
+    font-size: 12px;
     
 
 }
@@ -73,6 +74,7 @@ article {
 footer {
     text-align: center;
     background-color: #E75B0E;
+    bottom: 0 !important;
 }
 
 .flex-container {
